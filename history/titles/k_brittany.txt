@@ -1,0 +1,7 @@
+#House of Vannes
+877.1.1={
+	holder=50008 #Alain I, the Great
+}
+907.1.1={
+	holder=0
+}

@@ -1,0 +1,18 @@
+# 920 - Ouadane
+
+# County Title
+title = c_ouadane
+
+# Settlements
+max_settlements = 1
+b_ouadane = castle
+
+#b_wadan = city 
+#b_azuggi = castle
+#b_ksaralkiali = castle #Ksar-al-Kiali
+
+# Misc
+culture = manden
+religion = sunni
+
+# History

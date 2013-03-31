@@ -1,0 +1,28 @@
+1066.1.1 =
+{
+liege="c_sjaelland"
+}
+1158.1.1 = 
+{
+holder=201520 #Absalon Skjalmsen Hvide
+}
+1191.1.1 = 
+{	
+holder=201538 #Peder Sunesen Hvide
+}
+1214.10.29 =
+{
+holder=151018 #Peder Jaconsen Hvide
+}
+1225.5.19 = 
+{
+holder=151022 #Niels Stigsen Hvide
+}
+1249.9.24 = 
+{
+holder=34163 #Jacob Erlandsen Galen
+}
+1254.1.1 = 
+{
+holder=151025 #Peder Bang
+}

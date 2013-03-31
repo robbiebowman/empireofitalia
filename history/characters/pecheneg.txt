@@ -1,0 +1,705 @@
+20635 = {
+	name="Kabuksin"
+	dynasty=100512
+	martial=6
+	diplomacy=6
+	intrigue=4
+	stewardship=5
+	religion="tengri_pagan"
+	culture="pecheneg"
+	add_trait="proud"
+	add_trait="greedy"
+	add_trait="chaste"
+	add_trait="skilled_tactician"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+20637 = {
+	name="Ipa"
+	dynasty=100514
+	martial=5
+	diplomacy=4
+	intrigue=8
+	stewardship=7
+	religion="tengri_pagan"
+	culture="pecheneg"
+	add_trait="brave"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+20638 = {
+	name="Sol"
+	dynasty=100515
+	martial=7
+	diplomacy=8
+	intrigue=4
+	stewardship=5
+	religion="tengri_pagan"
+	culture="pecheneg"
+	add_trait="zealous"
+	add_trait="temperate"
+	add_trait="craven"
+	add_trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+20639 = {
+	name="Korkutan"
+	dynasty=100516
+	martial=6
+	diplomacy=4
+	intrigue=8
+	stewardship=5
+	religion="tengri_pagan"
+	culture="pecheneg"
+	add_trait="just"
+	add_trait="proud"
+	add_trait="fortune_builder"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+20640 = {
+	name="Balgor"
+	dynasty=100541
+	martial=4
+	diplomacy=4
+	intrigue=6
+	stewardship=7
+	religion="tengri_pagan"
+	culture="pecheneg"
+	add_trait="slothful"
+	add_trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+20641 = {
+	name="Tatus"
+	dynasty=100542
+	martial=7
+	diplomacy=5
+	intrigue=6
+	stewardship=6
+	religion="tengri_pagan"
+	culture="pecheneg"
+	add_trait="charitable"
+	add_trait="gluttonous"
+	add_trait="tough_soldier"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+20642 = {
+	name="Küre"
+	# AKA: Kure
+	dynasty=100543
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=7
+	religion="tengri_pagan"
+	culture="pecheneg"
+	add_trait="underhanded_rogue"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1091.1.1={
+		death="1091.1.1"
+	}
+}
+
+475420 = {
+	name="Kortan"
+	dynasty=100542
+	martial=7
+	diplomacy=8
+	intrigue=8
+	stewardship=7
+	religion="tengri_pagan"
+	culture="pecheneg"
+	add_trait="lustful"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="brave"
+	add_trait="fortune_builder"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+479050 = {
+	name="Küerçi"
+	# AKA: KUerci
+	dynasty=100543
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=6
+	religion="tengri_pagan"
+	culture="pecheneg"
+	add_trait="proud"
+	add_trait="flamboyant_schemer"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+483 = {
+	name="Sarica"
+	female = yes
+	martial=4
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="tengri_pagan"
+	culture="pecheneg"
+	add_trait="gluttonous"
+	add_trait="charismatic_negotiator"
+	932.1.1={
+		birth="932.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+34802 = {
+	name="Bula"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+34803 = {
+	name="Yeke"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+34804 = {
+	name="Ildey"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+34805 = {
+	name="Kobyak"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1122.1.1={
+		death="1122.1.1"
+	}
+}
+
+34806 = {
+	name="Temir"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+}
+
+34807 = {
+	name="Yahzi"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1135.1.1={
+		birth="1135.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+34808 = {
+	name="Bator"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+34809 = {
+	name="Bula"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1145.1.1={
+		death="1145.1.1"
+	}
+}
+
+34810 = {
+	name="Kortan"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+34811 = {
+	name="Kure"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+34812 = {
+	name="Karaca"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+34813 = {
+	name="Kaydum"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+34814 = {
+	name="Tatus"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+34815 = {
+	name="Ildey"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+34816 = {
+	name="Aba"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+34817 = {
+	name="Biçkili"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1115.1.1={
+		death="1115.1.1"
+	}
+}
+
+34818 = {
+	name="Teber"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+34819 = {
+	name="Çelgil"
+	#placeholder
+	religion="tengri_pagan"
+	culture="pecheneg"
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+159117 = {
+	name="Kubrat"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	600.1.2={
+		birth="600.1.2"
+	}
+	665.1.2={
+		death="665.1.2"
+	}
+}
+
+159118 = {
+	name="Asparukh"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159117
+	630.1.2={
+		birth="630.1.2"
+	}
+	701.1.2={
+		death="701.1.2"
+	}
+}
+
+159119 = {
+	name="Kotrag" # of Volga Bulgaria
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159117
+	631.1.2={
+		birth="631.1.2"
+	}
+	702.1.2={
+		death="702.1.2"
+	}
+}
+
+159120 = {
+	name="Tervel"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159118
+	675.1.2={
+		birth="675.1.2"
+	}
+	721.1.2={
+		death="721.1.2"
+	}
+}
+
+159121 = {
+	name="Telerig"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159120
+	706.1.2={
+		birth="706.1.2"
+	}
+	777.1.2={
+		death="777.1.2"
+	}
+}
+
+159122 = {
+	name="Kardam"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159121
+	730.1.2={
+		birth="730.1.2"
+	}
+	802.1.2={
+		death="802.1.2"
+	}
+}
+
+
+159123 = {
+	name="Krum"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159122
+	748.1.2={
+		birth="748.1.2"
+	}
+	814.1.2={
+		death="814.1.2"
+	}
+}
+
+159124 = {
+	name="Omortag"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159123
+	765.1.2={
+		birth="765.1.2"
+	}
+	831.1.2={
+		death="831.1.2"
+	}
+}
+
+159125 = {
+	name="Malamir"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159124
+	781.1.2={
+		birth="781.1.2"
+	}
+	836.1.2={
+		death="836.1.2"
+	}
+}
+
+
+159127 = {
+	name="Batbayan"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159117
+	625.1.5={
+		birth="625.1.5"
+	}
+	701.1.2={
+		death="701.1.2"
+	}
+}
+
+
+159128 = {
+	name="Shilki"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159129
+	830.1.2={
+		birth="830.1.2"
+	}
+	895.1.2={
+		death="895.1.2"
+	}
+}
+
+159129 = {
+	name="Bayan" #non-historical name
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159130
+	800.1.2={
+		birth="800.1.2"
+	}
+	865.1.2={
+		death="865.1.2"
+	}
+}
+
+159130 = {
+	name="Sabin" #non-historical name
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159131
+	770.1.2={
+		birth="770.1.2"
+	}
+	835.1.2={
+		death="835.1.2"
+	}
+}
+
+159131 = {
+	name="Umor" #non-historical name
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159132
+	740.1.2={
+		birth="740.1.2"
+	}
+	805.1.2={
+		death="805.1.2"
+	}
+}
+
+159132 = {
+	name="Toktu" #non-historical name
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159133
+	710.1.2={
+		birth="710.1.2"
+	}
+	775.1.2={
+		death="775.1.2"
+	}
+}
+
+159133 = {
+	name="Sevar" #non-historical name
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159134
+	680.1.2={
+		birth="680.1.2"
+	}
+	735.1.2={
+		death="735.1.2"
+	}
+}
+
+159134 = {
+	name="Kuber" #non-historical name
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159119
+	655.1.2={
+		birth="655.1.2"
+	}
+	715.1.2={
+		death="715.1.2"
+	}
+}
+
+159138 = {
+	name="Ügyek"
+	dynasty=591
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159131
+	773.2.2={
+		birth="773.2.2"
+	}
+	800.1.1={
+		add_spouse=159139
+	}
+	845.1.2={
+		death="845.1.2"
+	}
+}
+
+
+159141 = {
+	name="Gyula"
+	dynasty=8635
+	religion="tengri_pagan"
+	culture="pecheneg"
+	father=159128
+	865.1.2={
+		birth="865.1.2"
+	}
+	935.1.2={
+		death="935.1.2"
+	}
+}

@@ -1,0 +1,361 @@
+161720 = {
+	name="Pyera"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+
+161721 = {
+	name="Azeg"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	father=161720
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+161722 = {
+	name="Arti"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	father=161721
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+161723 = {
+	name="Zarny"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	father=161722
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+161724 = {
+	name="Parush"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	father=161723
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+161725 = {
+	name="Varaka"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	father=161724
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+161726 = {
+	name="Chuga"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	father=161725
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+161727 = {
+	name="Tugan"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	father=161726
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+161728 = {
+	name="Nylog"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	father=161727
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+161729 = {
+	name="Sarin"
+	#placeholder
+	religion="finnish_pagan"
+	culture="komi"
+	father=161728
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+
+20619 = {
+	name="Sarin"
+	#dynasty=151
+	martial=4
+	diplomacy=8
+	intrigue=7
+	stewardship=8
+	religion="finnish_pagan"
+	culture="komi"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+20620 = {
+	name="Nylog"
+	religion="finnish_pagan"
+	culture="komi"
+	add_trait="lustful"
+	add_trait="wroth"
+	add_trait="martial_cleric"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1113.1.1={
+		death="1113.1.1"
+	}
+}
+
+20630 = {
+	name="Tyueykezhut"
+	# AKA: Tyuey
+	#dynasty=100588
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=5
+	religion="finnish_pagan"
+	culture="komi"
+	add_trait="envious"
+	add_trait="amateurish_plotter"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+20631 = {
+	name="Tugan"
+	dynasty=100589
+	martial=8
+	diplomacy=6
+	intrigue=7
+	stewardship=5
+	religion="finnish_pagan"
+	culture="komi"
+	add_trait="stutter"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+	birth="1039.1.1"
+	}
+	1089.1.1={
+	death="1089.1.1"
+	}
+}
+
+20632 = {
+	name="Chuga"
+	dynasty=100590
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="finnish_pagan"
+	culture="komi"
+	add_trait="scholarly_theologian"
+	1039.1.1={
+	birth="1039.1.1"
+	}
+	1089.1.1={
+	death="1089.1.1"
+	}
+}
+
+20633 = {
+	name="Varaka"
+	dynasty=100591
+	martial=8
+	diplomacy=8
+	intrigue=7
+	stewardship=6
+	religion="finnish_pagan"
+	culture="komi"
+	add_trait="wroth"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	1039.1.1={
+	birth="1039.1.1"
+	}
+	1089.1.1={
+	death="1089.1.1"
+	}
+}
+
+20628 = {
+	name="Biyar"
+	dynasty=100592
+	martial=4
+	diplomacy=5
+	intrigue=6
+	stewardship=4
+	religion="finnish_pagan"
+	culture="komi"
+	add_trait="lustful"
+	add_trait="arbitrary"
+	add_trait="proud"
+	add_trait="wroth"
+	add_trait="tough_soldier"
+	1050.1.1={
+	birth="1050.1.1"
+	}
+	1120.1.1={
+	death="1120.1.1"
+	}
+}
+
+143146 = {
+	name="Syrka"
+	dynasty=100592
+	religion="finnish_pagan"
+	culture="komi"
+	father = 20628
+	1100.1.1={
+	birth="1100.1.1"
+	}
+	1187.1.1={
+	death="1187.1.1"
+	}
+}
+
+228070 = {
+	name="Osh"
+	dynasty=100579
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="finnish_pagan"
+	culture="komi"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1236.1.2={
+		death="1236.1.2"
+	}
+}
+
+20629 = {
+	name="Tuhan"
+	dynasty=100579
+	martial=7
+	diplomacy=7
+	intrigue=8
+	stewardship=4
+	religion="finnish_pagan"
+	culture="komi"
+	add_trait="zealous"
+	add_trait="wroth"
+	add_trait="flamboyant_schemer"
+	1039.1.1={
+	birth="1039.1.1"
+	}
+	1089.1.1={
+	death="1089.1.1"
+	}
+}
+
+144634 = {
+	name="Andyamo"
+	dynasty=100388
+	religion="finnish_pagan"
+	culture="komi"
+	father = 28004
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+28004 = {
+	name="Aymort"
+	dynasty=100388
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="finnish_pagan"
+	culture="komi"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}

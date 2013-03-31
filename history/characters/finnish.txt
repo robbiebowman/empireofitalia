@@ -1,0 +1,513 @@
+144626 = {
+	name="Lalli"
+	dynasty=100383
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="just"
+	add_trait="skilled_tactician"
+	father = 28003
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+144627 = {
+	name="Into"
+	dynasty=100383
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="just"
+	add_trait="skilled_tactician"
+	father = 228003
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+144635 = {
+	name="Voitto"
+	dynasty=100382
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 20612
+	1090.1.1={
+	birth="1090.1.1"
+	}
+	1158.1.1={
+	death="1158.1.1"
+	}
+}
+
+144636 = {
+	name="Mielus"
+	dynasty=100390
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 28005
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+144637 = {
+	name="Mielus"
+	dynasty=100390
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 228005
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+144641 = {
+	name="Ihala"
+	female = yes
+	dynasty=100384
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 28011
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1158.1.1={
+		death="1158.1.1"
+	}
+}
+
+144642 = {
+	name="Ikäpäivä"
+	dynasty=100392
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 28035
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+144643 = {
+	name="Ikäpäivä"
+	dynasty=100392
+	religion="finnish_pagan"
+	culture="finnish"
+	father = 228035
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1249.1.1={
+		death="1249.1.1"
+	}
+}
+
+20612 = {
+	name="Voitto"
+	dynasty=100382
+	martial=8
+	diplomacy=5
+	intrigue=6
+	stewardship=5
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+228002 = {
+	name="Jalo"
+	dynasty=100381
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=5
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="humble"
+	add_trait="scholarly_theologian"
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+228003 = {
+	name="Mielus"
+	dynasty=100383
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="just"
+	add_trait="skilled_tactician"
+	father = 144626
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+228004 = {
+	name="Aimo"
+	dynasty=100388
+	martial=4
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="greedy"
+	add_trait="proud"
+	add_trait="tough_soldier"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+228005 = {
+	name="Mielus"
+	dynasty=100390
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="chaste"
+	add_trait="just"
+	add_trait="tough_soldier"
+	father = 144636
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+228006 = {
+	name="Jalo"
+	dynasty=100391
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="just"
+	add_trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+228008 = {
+	name="Into"
+	dynasty=100385
+	martial=5
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="skilled_tactician"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+228010 = {
+	name="Voitto"
+	dynasty=100389
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="flamboyant_schemer"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+228011 = {
+	name="Ihala"
+	dynasty=100384
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="deceitful"
+	add_trait="scholarly_theologian"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+228035 = {
+	name="Ikäpäivä"
+	# AKA: Ikapaiva
+	dynasty=100392
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="kind"
+	add_trait="proud"
+	add_trait="flamboyant_schemer"
+	father = 144642
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+228071 = {
+	name="Ihala"
+	dynasty=100592
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=8
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="martial_cleric"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+228072 = {
+	name="Mainio"
+	dynasty=100593
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=7
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="patient"
+	add_trait="amateurish_plotter"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+28003 = {
+	name="Mielus"
+	dynasty=100383
+	martial=6
+	diplomacy=7
+	intrigue=6
+	stewardship=8
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="just"
+	add_trait="skilled_tactician"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+28005 = {
+	name="Mielus"
+	dynasty=100390
+	martial=6
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="chaste"
+	add_trait="just"
+	add_trait="tough_soldier"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+28006 = {
+	name="Jalo"
+	dynasty=100391
+	martial=5
+	diplomacy=5
+	intrigue=4
+	stewardship=7
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="just"
+	add_trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+28010 = {
+	name="Voitto"
+	dynasty=100389
+	martial=8
+	diplomacy=4
+	intrigue=7
+	stewardship=5
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="flamboyant_schemer"
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1089.1.1={
+		death="1089.1.1"
+	}
+}
+
+28011 = {
+	name="Ihala"
+	dynasty=100384
+	martial=4
+	diplomacy=6
+	intrigue=8
+	stewardship=7
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="deceitful"
+	add_trait="scholarly_theologian"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+28035 = {
+	name="Ikäpäivä"
+	# AKA: Ikapaiva
+	dynasty=100392
+	martial=5
+	diplomacy=4
+	intrigue=4
+	stewardship=5
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="kind"
+	add_trait="proud"
+	add_trait="flamboyant_schemer"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+428070 = {
+	name="Oiva"
+	dynasty=100579
+	martial=7
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="greedy"
+	add_trait="cynical"
+	add_trait="underhanded_rogue"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+486030 = {
+	name="Mielus"
+	dynasty=100389
+	martial=6
+	diplomacy=4
+	intrigue=7
+	stewardship=8
+	religion="finnish_pagan"
+	culture="finnish"
+	add_trait="tough_soldier"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}

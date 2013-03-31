@@ -1,0 +1,15 @@
+840.6.20={
+	holder = 90104 #Charles II le Chauve
+}
+877.10.6={
+	holder = 90123 #Louis II le Bègue
+}
+879.4.10={
+	holder = 90154 #Louis III
+}
+882.8.5={ 
+	holder = 90155 #Carloman II
+}
+888.1.13={
+	holder = 0
+}
