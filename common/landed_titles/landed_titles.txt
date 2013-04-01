@@ -2194,8 +2194,8 @@ e_italia = {
 	duchy_revokation = yes
 	
 	k_italy = {
-		color={ 244 227 160 }
-		color2={ 255 255 255 }
+	color={ 13 96 0 }
+	color2={ 248 203 48 }
 				
 		capital = 328 # Firenze
 		
@@ -4405,7 +4405,7 @@ e_caucasus = {
 }
 	
 e_baltic = {
-	color={ 170 150 70 }
+	color={ 65 65 65 }
 	color2={ 255 255 255 }	
 		
 	capital	= 420 # Aukshayts
