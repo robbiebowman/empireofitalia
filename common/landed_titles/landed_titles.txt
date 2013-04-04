@@ -3521,6 +3521,8 @@ e_caucasus = {
 	capital = 594 #	Sarkel
 	
 	orthodox = 200 # Crusade target weight
+	
+	duchy_revokation = yes
 
 	allow = {
 		OR = {
@@ -4411,6 +4413,8 @@ e_baltic = {
 	capital	= 420 # Aukshayts
 	
 	short_name = yes
+	
+	duchy_revokation = yes
 	
 	# Creation/usurpation trigger
 	allow = {
@@ -5975,6 +5979,8 @@ e_danube = {
 	
 	capital = 444 # Esztergom
 	
+	duchy_revokation = yes
+	
 	# Creation/usurpation trigger
 	allow = {
 		OR = {
@@ -7450,6 +7456,8 @@ e_africa = {
 	capital = 817 # Tunis
 	
 	short_name = yes
+	
+	duchy_revokation = yes
 	
 	allow = {
 		OR = {
@@ -9113,6 +9121,8 @@ e_hre = {
 	religion = catholic
 	culture = german
 	short_name = yes
+	
+	duchy_revokation = yes
 	
 	allow = {
 		OR = {
@@ -13035,6 +13045,8 @@ e_scandinavia = {
 	
 	culture = swedish
 	
+	duchy_revokation = yes
+	
 	# Creation/usurpation trigger
 	allow = {
 		culture_group = north_germanic
@@ -14988,6 +15000,8 @@ e_russia = {
 	capital = 547 # Kiev
 	
 	culture = russian
+	
+	duchy_revokation = yes
 	
 	allow = {
 		culture = russian
@@ -16957,6 +16971,8 @@ e_persia = {
 	
 	culture = persian
 	
+	duchy_revokation = yes
+	
 	allow = {
 		culture_group = iranian
 	}
@@ -18606,6 +18622,8 @@ e_france = {
 	capital = 112 # Ile de France
 	
 	culture = frankish
+	
+	duchy_revokation = yes
 	
 	allow = {
 		OR = {
@@ -20277,6 +20295,8 @@ e_spain = {
 	
 	culture = castillan
 	
+	duchy_revokation = yes
+	
 	allow = {
 		OR = {
 			culture_group = iberian
@@ -21922,6 +21942,8 @@ e_arabia = {
 	capital = 718 # Medina
 	
 	culture = bedouin_arabic
+	
+	duchy_revokation = yes
 	
 	allow = {
 		culture_group = arabic
@@ -23844,6 +23866,8 @@ e_britannia = {
 	color={ 172 22 22 }
 	color2={ 255 255 255 }
 	capital = 32 # Middlesex
+	
+	duchy_revokation = yes
 	
 	# Creation/usurpation trigger
 	allow = {
@@ -26171,6 +26195,8 @@ e_ireland = {
 	
 	short_name = yes
 	
+	duchy_revokation = yes
+	
 	capital = 11 # Dublin
 	
 	culture = irish
@@ -26192,6 +26218,8 @@ e_latin_empire = {
 	capital = 496 # Byzantion
 	
 	short_name = yes
+	
+	duchy_revokation = yes
 	
 	allow = {
 		OR = {
